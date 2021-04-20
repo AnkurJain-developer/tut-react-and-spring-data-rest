@@ -470,3 +470,5 @@ Issues?
 * It is read only. While you can alter records using cURL, the web page offers no interactivity.
 
 We address these shortcomings in the next section.
+
+Powered by Ankur Jain
